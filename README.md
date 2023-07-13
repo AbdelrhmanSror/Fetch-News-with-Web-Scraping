@@ -1,4 +1,4 @@
-# Jupyter Notebook Readme
+# Fetch-News-with-Web-Scraping Readme
 
 This Jupyter Notebook provides a script for web scraping news articles from a website and storing them in a Pandas DataFrame. It uses the BeautifulSoup library for web scraping and the requests library for downloading web pages.
 
